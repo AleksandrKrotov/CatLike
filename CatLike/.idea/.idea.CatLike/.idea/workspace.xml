@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69814735-adbd-431e-9f02-dbcae220edfc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameRateCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17AD9609-AE06-4F2C-9315-931FF97ADCF1/c3/85153ec3/ComputeShader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@7.5.3/Runtime/UniversalAdditionalCameraData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FractalV3.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Clock.cs" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Point Surface.shader" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FrameRateCounter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Graph.cs" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Point URP GPU.hlsl" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Point Surface GPU.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/PointGPU.hlsl" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FunctionLibrary.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GPUGraph.cs" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/FunctionLibrary.compute" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Fractal.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FractalV2.cs" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/FractalGPU.hlsl" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Fractal Surface GPU.shader" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FractalV3.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1o7a7JuHKv1K7EAVDc5uZtA9mP4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Builds\CatLike.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Unity\CatLike\Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69814735-adbd-431e-9f02-dbcae220edfc" name="Default Changelist" comment="" />
+      <created>1612639916020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612639916020</updated>
+      <workItem from="1612639926373" duration="7235000" />
+      <workItem from="1612691613825" duration="1238000" />
+      <workItem from="1612726734145" duration="6798000" />
+      <workItem from="1612784723361" duration="8056000" />
+      <workItem from="1613035559927" duration="12548000" />
+      <workItem from="1613594394996" duration="2769000" />
+      <workItem from="1614099710381" duration="13197000" />
+      <workItem from="1614169480155" duration="7527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
